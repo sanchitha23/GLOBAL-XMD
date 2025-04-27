@@ -11,7 +11,7 @@ global.location = "Pakistan, Karachi, Karachi" //ur location
 //new
 global.botname = '𝙂𝙇𝙊𝘽𝘼𝙇-𝙓𝙈𝘿' //ur bot name
 global.ownernumber = ['94762798019'] //ur owner number, dont add more than one
-global.ownername = '© GlobalTechInfo' //ur owner name
+global.ownername = '© sachin' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
 global.themeemoji = '🪀'
